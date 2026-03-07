@@ -1,4 +1,4 @@
-# i18n Audit
+# i18n Audit (👀![Organization Views](https://komarev.com/ghpvc/?username=i18n-audit\&color=blue))
 
 Multi-language translation audit toolkit.
 
